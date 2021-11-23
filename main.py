@@ -4,9 +4,9 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 
 app = Flask("hi")
 
-english_bot = ChatBot("404 BOT", storage_adapter="chatterbot.storage.SQLStorageAdapter")
-trainer = ChatterBotCorpusTrainer(english_bot)
-trainer.train("chatterbot.corpus.english")
+vn_bot = ChatBot("404 BOT", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+trainer = ChatterBotCorpusTrainer(vn_bot)
+trainer.train("chatterbot.corpus.vietnamese", "chatterbot.corpus.english")
 
 
 @app.route("/")
@@ -17,7 +17,7 @@ def home():
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
-    return str(english_bot.get_response(userText))
+    return str(vn_bot.get_response(userText))
 
 
 if __name__ == "__main__":

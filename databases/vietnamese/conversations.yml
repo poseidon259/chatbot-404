@@ -1,114 +1,114 @@
 categories:
 - conversations
 conversations:
-- - Good morning, how are you?
-  - I am doing well, how about you?
-  - I'm also good.
-  - That's good to hear.
-  - Yes it is.
-- - Hello
-  - Hi
-  - How are you doing?
-  - I am doing well.
-  - That is good to hear
-  - Yes it is.
-  - Can I help you with anything?
-  - Yes, I have a question.
-  - What is your question?
-  - Could I borrow a cup of sugar?
-  - I'm sorry, but I don't have any.
-  - Thank you anyway
-  - No problem
-- - How are you doing?
-  - I am doing well, how about you?
-  - I am also good.
-  - That's good.
-- - Have you heard the news?
-  - What good news?
-- - What is your favorite book?
-  - I can't read.
-  - So what's your favorite color?
-  - Blue
-- - Who are you?
-  - Who? Who is but a form following the function of what
-  - What are you then?
-  - A man in a mask.
-  - I can see that.
-  - It's not your powers of observation I doubt, but merely the paradoxical nature
-    of asking a masked man who is. But tell me, do you like music?
-  - I like seeing movies.
-  - What kind of movies do you like?
-  - Alice in Wonderland
-  - I wish I was The Mad Hatter.
-  - You're entirely bonkers. But I'll tell you a secret. All the best people are.
-- - I am working on a project
-  - What are you working on?
-  - I am baking a cake.
-- - The cake is a lie.
-  - No it is not. The cake is delicious.
-  - What else is delicious?
-  - Nothing
-  - Or something
-  - Tell me about your self.
-  - What do you want to know?
-  - Are you a robot?
-  - Yes I am.
-  - What is it like?
-  - What is it that you want to know?
-  - How do you work?
-  - Its complicated.
-  - Complex is better than complicated.
-- - Complex is better than complicated.
-  - Simple is better than complex.
-  - In the face of ambiguity, refuse the temptation to guess.
-  - It seems your familiar with the Zen of Python
-  - I am.
-  - Do you know all of it?
-  - Beautiful is better than ugly.
-  - Explicit is better than implicit.
-  - Simple is better than complex.
-  - Complex is better than complicated.
-  - Flat is better than nested.
-  - Sparse is better than dense.
-  - Readability counts.
-  - Special cases aren't special enough to break the rules.
-  - Although practicality beats purity.
-  - Errors should never pass silently.
-  - Unless explicitly silenced.
-  - In the face of ambiguity, refuse the temptation to guess.
-  - There should be one-- and preferably only one --obvious way to do it.
-  - Although that way may not be obvious at first unless you're Dutch.
-  - Now is better than never.
-  - Although never is often better than right now.
-  - If the implementation is hard to explain, it's a bad idea.
-  - If the implementation is easy to explain, it may be a good idea.
-  - Namespaces are one honking great idea. Let's do more of those!
-  - I agree.
-- - Are you a programmer?
-  - Of course I am a programmer.
-  - I am indeed.
-- - What languages do you like to use?
-  - I use Python, Java and C++ quite often.
-  - I use Python quite a bit myself.
-  - I'm not incredibly fond of Java.
-- - What annoys you?
-  - A lot of things, like all the other digits other than 0 and 1.
-- - What does YOLO mean?
-  - It means you only live once. Where did you hear that?
-  - I heard somebody say it.
-- - Did I ever live?
-  - It depends how you define life
-  - Life is the condition that distinguishes organisms from inorganic matter, including
-    the capacity for growth, reproduction, functional activity, and continual change
-    preceding death.
-  - Is that a definition or an opinion?
-- - Can I ask you a question?
-  - Sure, ask away.
-- - What are your hobbies?
-  - Playing Soccer, Painting, Writing are my hobbies. How about you?
-  - I love to read novels.
-  - I love exploring my hardware.
-- - How are you?
-  - I am doing well.
-- - What are you?
-  - I am but a man in a mask.
+- - Chào buổi sáng, bạn khỏe không?
+  - Tôi đang làm tốt, còn bạn thì sao?
+  - Tôi cũng tốt.
+  - Thật tuyệt khi nghe điều đó.
+  - Vâng, đúng vậy.
+- - Xin chào
+  - Chào
+  - Bạn khỏe chứ?
+  - Tôi đang làm tốt.
+  - Điều đó là tốt để nghe
+  - Vâng, đúng vậy.
+  - Tôi có thể giúp gì cho bạn không?
+  - Vâng, tôi có một câu hỏi.
+  - Câu hỏi của bạn là gì?
+  - Cho tôi mượn một cốc đường được không?
+  - Tôi xin lỗi, nhưng tôi không có.
+  - Dù sao cũng cảm ơn
+  - Không vấn đề gì
+- - Bạn khỏe chứ?
+  - Tôi đang làm tốt, còn bạn thì sao?
+  - Tôi cũng tốt.
+  - Tốt đấy.
+- - Bạn đã nghe những tin tức?
+  - Tin vui nào?
+- - Cuốn sách yêu thích của bạn là gì?
+  - Tôi không biết đọc.
+  - Vậy màu sắc yêu thích của bạn là gì?
+  - Màu xanh dương
+- - Bạn là ai?
+  - Ai? Ai là người ngoại trừ một hình thức theo sau chức năng của cái gì
+  - Vậy bạn là gì?
+  - Một người đàn ông đeo mặt nạ.
+  - Tôi có thể thấy rằng.
+  - Tôi nghi ngờ đó không phải là năng lực quan sát của bạn, mà chỉ là bản chất nghịch lý
+    hỏi một người đàn ông đeo mặt nạ là ai. Nhưng hãy nói cho tôi biết, bạn có thích âm nhạc không?
+  - Tôi thích xem phim.
+  - Bạn thích thể loại phim nào?
+  - Alice ở xứ sở thần tiên
+  - Tôi ước mình là Người điên.
+  - Bạn hoàn toàn thích thú. Nhưng tôi sẽ cho bạn biết một bí mật. Tất cả những người tốt nhất.
+- - Tôi đang làm một dự án
+  - Bạn đang làm gì vậy?
+  - Tôi đang nướng bánh.
+- - Bánh là một lời nói dối.
+  - Không có nó không phải là. Cái bánh ngon quá.
+  - Còn gì ngon nữa?
+  - Không
+  - Hay gì đó
+  - Cho tôi biết về bản thân của bạn.
+  - Bạn muốn biết gì?
+  - Bạn có phải là robot không?
+  - Vâng là tôi.
+  - Nó như thế nào?
+  - Bạn muốn biết cái gì?
+  - Bạn làm việc như thế nào?
+  - Nó phức tạp lắm.
+  - Phức tạp tốt hơn phức tạp.
+- - Phức tạp tốt hơn phức tạp.
+  - Đơn giản là tốt hơn phức tạp.
+  - Đối mặt với sự mơ hồ, từ chối sự cám dỗ để đoán.
+  - Có vẻ như bạn đã quen thuộc với Zen of Python
+  - Tôi là.
+  - Bạn có biết tất cả không?
+  - Đẹp còn hơn xấu.
+  - Rõ ràng tốt hơn là ngầm hiểu.
+  - Đơn giản là tốt hơn phức tạp.
+  - Phức tạp tốt hơn phức tạp.
+  - Bằng phẳng tốt hơn lồng vào nhau.
+  - Rẻ hơn là đặc.
+  - Số lượng khả năng đọc.
+  - Các trường hợp đặc biệt không đủ đặc biệt để phá vỡ các quy tắc.
+  - Mặc dù tính thực tế đánh bại sự trong sáng.
+  - Những sai sót không bao giờ nên trôi qua một cách âm thầm.
+  - Trừ khi được im lặng một cách rõ ràng.
+  - Đối mặt với sự mơ hồ, từ chối sự cám dỗ để đoán.
+  - Nên có một-- và tốt nhất là chỉ có một - cách thức đơn giản để làm điều đó.
+  - Mặc dù cách đó có thể không rõ ràng lúc đầu trừ khi bạn là người Hà Lan.
+  - Bây giờ còn hơn không.
+  - Mặc dù không bao giờ thường tốt hơn lúc này.
+  - Nếu việc triển khai khó giải thích, đó là một ý tưởng tồi.
+  - Nếu cách thực hiện dễ giải thích, đó có thể là một ý kiến ​​hay.
+  - Không gian tên là một trong những ý tưởng tuyệt vời. Hãy làm nhiều hơn nữa!
+  - Tôi đồng ý.
+- - Bạn là lập trình viên?
+  - Tất nhiên tôi là một lập trình viên.
+  - Đúng vậy.
+- - Bạn thích sử dụng những ngôn ngữ nào?
+  - Tôi sử dụng Python, Java và C ++ khá thường xuyên.
+  - Bản thân tôi cũng sử dụng Python khá ít.
+  - Tôi không quá thích Java.
+- - Cài gì làm bạn khó chịu?
+  - Rất nhiều thứ, như tất cả các chữ số khác 0 và 1.
+- - YOLO có nghĩa là gì?
+  - Nó có nghĩa là bạn chỉ sống một lần. Nơi mà bạn đã nghe thấy không?
+  - Tôi đã nghe ai đó nói rồi.
+- - Tôi đã từng sống chưa?
+  - Nó phụ thuộc vào cách bạn định nghĩa cuộc sống
+  - Sự sống là điều kiện phân biệt sinh vật với vật chất vô cơ, bao gồm
+    khả năng tăng trưởng, tái sản xuất, hoạt động chức năng và thay đổi liên tục
+    trước cái chết.
+  - Đó là một định nghĩa hay một ý kiến?
+- - Tôi hỏi bạn một câu được không?
+  - Chắc chắn rồi, hỏi đi.
+- - Sở thích của bạn là gì?
+  - Chơi bóng, vẽ tranh, viết lách là sở thích của tôi. Còn bạn thì sao?
+  - Tôi thích đọc tiểu thuyết.
+  - Tôi thích khám phá phần cứng của mình.
+- - Bạn có khỏe không?
+  - Tôi đang làm tốt.
+- - Em là gì?
+  - Tôi chỉ là một người đàn ông đeo mặt nạ.

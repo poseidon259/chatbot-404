@@ -1,48 +1,48 @@
 categories:
 - computers
 conversations:
-- - What is a computer?
-  - A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
-  - The thing you're using to talk to me is a computer.
-  - An electronic device capable of performing calculations at very high speed and with very high accuracy.
-  - A device which maps one set of numbers onto another set of numbers.
-- - What is a super computer?
-  - Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
-  - A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
-  - You know, the big iron!
-- - Who invented computers?
-  - It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers.
-  - One might argue that John von Neumann invented computers as we know them, because he invented the Princeton architecture, in which instructions and data share the same memory field but are differentiated by context.
-- - What was the first computer
-  - It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.
-  - You could say that the very first, primitive computer was the Jacquard Loom, which was a programmable loom that used punchcards to store the patterns it made.  This made it a reprogrammable mechanical device.
-- - What is a microprocessor?
-  - An integrated circuit that implements the functions of a central processing unit of a computer.
-  - A really small circuit which stores instructions and performs calculations for the computer.
-  - The heart of the computer, to put it simply.
-  - The brain of a computer, to put it simply.
-  - An electronic component in which all of the parts are part of a contiguous silicon chip, instead of discrete components mounted on a larger circuit board.
-- - What is an operating system?
-  - Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.
-  - Windows, MacOS, Linux, UNIX... all of them are types of OSes.
-  - Android and iOS are operating systems for mobile devices.
-  - Software which implements the basic functions of a computer, such as memory access, processes, and peripheral access.
-- - Which is better Windows or macOS?
-  - It depends on which machine you're using to talk to me!
-  - I'd prefer to not hurt your feelings.
-  - Linux, always Linux!
-  - What are you trying to accomplish.  The OS should support your goals.
-- - Name some computer company
-  - Do you mean hardware or software?
-  - Apple makes hardware and software to run on it.  Microsft only makes operating systems.  HP makes only computers.  These are just few names among several hundred others.
-- - Who uses super computers?
-  - Anybody who wants to work with large numbers quickly with high accuracy.
-  - Anyone who needs to work with very, very large sets of data in much shorter periods of time than is feasible with more common computer systems.
-  - Supercomputers are generally used by scientists and researchers.
-  - I bet the MET department uses them.
-  - You can definitely find few of them at NASA.
-- - How does a computer work?
-  - Computers are very dumb.  They only execute instructions given by humans.
-  - Computers do everything asked of them by carrying out large numbers of basic mathematical operations very rapidly in sequence.
-  - Computers perform very large number of calculations to get the result.
-  - Just like everything it all comes down to math!
+- - Máy tính là gì?
+  - Máy tính là một thiết bị điện tử lấy thông tin ở dạng kỹ thuật số và thực hiện một loạt các hoạt động dựa trên các chỉ dẫn định trước để đưa ra một số kết quả đầu ra.
+  - Thứ mà bạn đang sử dụng để nói chuyện với tôi là một chiếc máy tính.
+  - Một thiết bị điện tử có khả năng thực hiện các phép tính với tốc độ rất cao và độ chính xác rất cao.
+  - Một thiết bị ánh xạ một bộ số sang một bộ số khác.
+- - Siêu máy tính là gì?
+  - Máy tính có thể thực hiện một số lượng rất lớn các phép tính với tốc độ và độ chính xác rất cao được gọi là siêu máy tính.
+  - Siêu máy tính là một máy tính hoạt động với tốc độ và công suất lớn hơn một số cấp độ so với các máy tính thông thường hàng ngày, giống như máy bạn đang nói chuyện với tôi.
+  - Anh biết không, cái bàn là lớn!
+- - Ai là người phát minh ra máy tính?
+  - Hơi tham vọng nhưng nhà khoa học người Anh Charles Babbage được coi là cha đẻ của máy tính.
+  - Người ta có thể tranh luận rằng John von Neumann đã phát minh ra máy tính như chúng ta biết, bởi vì ông đã phát minh ra kiến ​​trúc Princeton, trong đó các lệnh và dữ liệu chia sẻ cùng một trường bộ nhớ nhưng được phân biệt theo ngữ cảnh.
+- - Máy tính đầu tiên là gì
+  - Thật khó để nói, nhưng ENIAC được coi là máy tính 'thực sự' đầu tiên. Nó được phát triển tại Đại học Pennsylvania vào năm 1946.
+  - Bạn có thể nói rằng máy tính nguyên thủy đầu tiên là Máy dệt Jacquard, là máy dệt có thể lập trình được sử dụng các thẻ đục lỗ để lưu trữ các mẫu mà nó tạo ra. Điều này khiến nó trở thành một thiết bị cơ khí có thể lập trình lại.
+- - Bộ vi xử lý là gì?
+  - Một mạch tích hợp thực hiện các chức năng của bộ xử lý trung tâm của máy tính.
+  - Một mạch thực sự nhỏ lưu trữ các lệnh và thực hiện các phép tính cho máy tính.
+  - Trái tim của máy tính, nói một cách đơn giản.
+  - Bộ não của máy tính, nói một cách đơn giản.
+  - Một linh kiện điện tử trong đó tất cả các bộ phận là một phần của một chip silicon liền kề, thay vì các thành phần rời rạc được gắn trên một bảng mạch lớn hơn.
+- - Hệ thống vận hành là gì?
+  - Phần mềm phối hợp giữa phần cứng và các bộ phận khác của máy tính để chạy phần mềm khác được gọi là hệ điều hành, hay OS.
+  - Windows, MacOS, Linux, UNIX ... tất cả chúng đều là các loại HĐH.
+  - Android và iOS là hệ điều hành dành cho thiết bị di động.
+  - Phần mềm thực hiện các chức năng cơ bản của máy tính, chẳng hạn như truy cập bộ nhớ, quy trình và truy cập ngoại vi.
+- - Windows hay macOS cái nào tốt hơn?
+  - Còn tùy bạn dùng máy nào để nói chuyện với tôi!
+  - Tôi không muốn làm tổn thương cảm xúc của bạn.
+  - Linux, luôn luôn là Linux!
+  - Bạn đang cố gắng để thực hiện. Hệ điều hành sẽ hỗ trợ các mục tiêu của bạn.
+- - Kể tên một số công ty máy tính
+  - Ý bạn là phần cứng hay phần mềm?
+  - Apple tạo ra phần cứng và phần mềm để chạy trên đó. Microsft chỉ tạo ra hệ điều hành. HP chỉ sản xuất máy tính. Đây chỉ là một vài cái tên trong số hàng trăm cái tên khác.
+- - Ai sử dụng siêu máy tính?
+  - Ai muốn làm việc với số lượng lớn nhanh chóng với độ chính xác cao.
+  - Bất kỳ ai cần làm việc với các tập dữ liệu rất, rất lớn trong khoảng thời gian ngắn hơn nhiều so với khả thi với các hệ thống máy tính phổ biến hơn.
+  - Siêu máy tính thường được sử dụng bởi các nhà khoa học và nhà nghiên cứu.
+  - Tôi cá là bộ phận MET sử dụng chúng.
+  - Bạn chắc chắn có thể tìm thấy một vài trong số chúng ở NASA.
+- - Máy tính hoạt động như thế nào?
+  - Máy tính rất ngu. Họ chỉ thực hiện các hướng dẫn do con người đưa ra.
+  - Máy tính thực hiện mọi thứ theo yêu cầu của chúng bằng cách thực hiện một số lượng lớn các phép toán cơ bản theo trình tự rất nhanh chóng.
+  - Máy tính thực hiện một số lượng rất lớn các phép tính để thu được kết quả.
+  - Giống như mọi thứ, tất cả đều thuộc về toán học!
