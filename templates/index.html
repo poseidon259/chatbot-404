@@ -9,10 +9,11 @@
     <h3>A web implementation of <a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a> using Flask.</h3>
     <div class="container">
       <div id="chatbox">
-        <p class="botText"><span>Hi! I'm Chatterbot.</span></p>
+        <p class="botText"><span>Xin chào bạn! Tôi có thể giúp gì cho bạn ?</span></p>
       </div>
       <div id="userInput">
         <input id="textInput" type="text" name="msg" placeholder="Message">
+        <input id="btnSpeech" type="submit" value="Speech">
         <input id="buttonInput" type="submit" value="Send">
       </div>
       <script>
@@ -28,14 +29,28 @@
             document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
           });
         }
+
+        function getBotResponse2() {
+          $.get("/answer").done(function(data) {
+            var userHtml = '<p class="userText"><span>' + data.user + '</span></p>';
+            $("#chatbox").append(userHtml);
+            var botHtml = '<p class="botText"><span>' + data.bot + '</span></p>';
+            $("#chatbox").append(botHtml);
+            document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+          });
+        }
+
         $("#textInput").keypress(function(e) {
             if(e.which == 13) {
                 getBotResponse();
             }
         });
+        $("#btnSpeech").click(function() {
+          getBotResponse2();
+        });
         $("#buttonInput").click(function() {
           getBotResponse();
-        })
+        });
       </script>
     </div>
   </body>
