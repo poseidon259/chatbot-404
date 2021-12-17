@@ -9,7 +9,7 @@ app = Flask("hi")
 
 vn_bot = ChatBot("404 BOT", storage_adapter="chatterbot.storage.SQLStorageAdapter")
 trainer = ChatterBotCorpusTrainer(vn_bot)
-trainer.train(r"D:\Pycharm\PycharmProject\chatbot\venv\Lib\site-packages\chatterbot_corpus\data\vietnamese")
+trainer.train(r".\databases\vietnamese")
 
 
 @app.route("/")
