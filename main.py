@@ -14,7 +14,7 @@ vn_bot = ChatBot(
     connect_args={'check_same_thread': False}
 )
 trainer = ChatterBotCorpusTrainer(vn_bot)
-trainer.train(r".\databases\vietnamese")
+trainer.train("./databases/vietnamese")
 
 
 @app.route("/")
