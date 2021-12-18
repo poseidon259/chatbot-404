@@ -7,7 +7,12 @@ from speechtotext import speech_to_text
 
 app = Flask("hi")
 
-vn_bot = ChatBot("404 BOT", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+vn_bot = ChatBot(
+    '404',
+    storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    database_uri='sqlite:///database.sqlite3',
+    connect_args={'check_same_thread': False}
+)
 trainer = ChatterBotCorpusTrainer(vn_bot)
 trainer.train(r"D:\Pycharm\PycharmProject\chatbot\venv\Lib\site-packages\chatterbot_corpus\data\vietnamese")
 
