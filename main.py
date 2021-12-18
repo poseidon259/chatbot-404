@@ -14,7 +14,7 @@ vn_bot = ChatBot(
     connect_args={'check_same_thread': False}
 )
 trainer = ChatterBotCorpusTrainer(vn_bot)
-trainer.train(r"D:\Pycharm\PycharmProject\chatbot\venv\Lib\site-packages\chatterbot_corpus\data\vietnamese")
+trainer.train(r".\databases\vietnamese")
 
 
 @app.route("/")
