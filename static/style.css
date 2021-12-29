@@ -16,9 +16,9 @@ h3 {
     margin-top: 3px;
     text-align: center;
 }
-.container {
 
-}
+.container {}
+
 #chatbox {
     margin-left: auto;
     margin-right: auto;
@@ -36,7 +36,7 @@ h3 {
 }
 
 #textInput {
-    width: 76%;
+    width: 70%;
     border: none;
     border-bottom: 3px solid #009688;
     font-family: monospace;
@@ -44,9 +44,17 @@ h3 {
 }
 
 #buttonInput {
-    padding: 3px;
+    /* padding: 3px; */
+    border-radius: 2px;
+    border: none;
+    background-color: dodgerblue;
+    color: white;
     font-family: monospace;
     font-size: 17px;
+}
+
+#buttonInput:hover {
+    background-color: blue;
 }
 
 .userText {
@@ -78,8 +86,8 @@ h3 {
 }
 
 #tidbit {
-    position:absolute;
-    bottom:0;
-    right:0;
+    position: absolute;
+    bottom: 0;
+    right: 0;
     width: 300px;
 }
