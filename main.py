@@ -1,20 +1,16 @@
-# -*- coding: utf-8 -*-
 
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from speechtotext import speech_to_text
+from google_search import open_google_and_search
+
 
 app = Flask("hi")
 
-vn_bot = ChatBot(
-    '404',
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    database_uri='sqlite:///database.sqlite3',
-    connect_args={'check_same_thread': False}
-)
+vn_bot = ChatBot("bot_404", storage_adapter="chatterbot.storage.SQLStorageAdapter")
 trainer = ChatterBotCorpusTrainer(vn_bot)
-trainer.train("./databases/vietnamese")
+trainer.train(r".\\databases\\vietnamese")
 
 
 @app.route("/")
@@ -34,6 +30,10 @@ def get_bot_response2():
     return {"user": userSpeech,
             "bot": botAnswer}
 
+@app.route("/searching")
+def get_bot_response3():
+    userText = str(request.args.get('msg'))
+    return open_google_and_search(userText)
 
 
 if __name__ == "__main__":
